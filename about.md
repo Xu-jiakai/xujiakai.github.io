@@ -10,7 +10,7 @@ Gender: Male
 City: GuangZhou, China  
 Career: Software developer(Linux&Python)  
 
-#### 2.My Links
+#### 2.Links
 Blog: <http://www.xujiakai.xyz>  
 GitHub: <https://github.com/Xu-jiakai>  
 
