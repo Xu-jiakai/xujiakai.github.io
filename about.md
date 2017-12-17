@@ -5,24 +5,16 @@ title: "关于：About"
 Welcome to visit my blog!
 
 #### 1.Personal Info
-Name: Xuewen Pan(潘学文)  
+Name: Jiakai Xu(许佳凯)  
 Gender: Male  
-City: Wuhan, China  
-Career: Software developer(Android&Linux&Web)  
+City: GuangZhou, China  
+Career: Software developer(Linux&Python)  
 
 #### 2.My Links
-Blog: <http://www.panxw.com>  
-GitHub: <https://github.com/panxw>  
-LinkedIn: <http://www.linkedin.com/in/panxw>  
+Blog: <http://www.xujiakai.xyz>  
+GitHub: <https://github.com/Xu-jiakai>  
 
 
 #### 3.Contract
-Email: winfirm#163.com  
-QQ: 85902258  
-
-### 4.Domain For Sale
-danbaili.com  
-fangxinyu.com  
-maicaiwa.com  
-babytoycar.com  
-youth168.com  
+Email: Xu_jiakai@foxmail.com
+QQ: 489346220  
