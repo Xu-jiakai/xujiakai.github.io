@@ -16,5 +16,6 @@ GitHub: <https://github.com/Xu-jiakai>
 
 
 #### 3.Contract
-Email: Xu_jiakai@foxmail.com
-QQ: 489346220  
+Email: Xu_jiakai@foxmail.com  
+QQ:489346220 
+
